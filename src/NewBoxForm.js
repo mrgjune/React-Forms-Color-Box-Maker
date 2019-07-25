@@ -46,7 +46,7 @@ class NewBoxForm extends React.Component {
                     value={this.state.height}
                     onChange={this.handleChange} />
 
-                <button>Add a new item!</button>
+                <button>Add a new Box!</button>
             </form>
         );
     }
